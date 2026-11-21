@@ -1,5 +1,5 @@
 {
   "dependencies": {
-    "@ai-sdk/anthropic": "^2.0.17"
+    "@ai-sdk/anthropic": "^2.0.115"
   }
 }
